@@ -1,4 +1,5 @@
 Syllable Slam Project
+
 Enter in a word, and it will be counted for syllables and output however many it detects.  
 
 I've based this off of the written rules for syllables.
